@@ -1,0 +1,30 @@
+.formulaire{
+background-color:rgb(79, 55, 74);
+width: 100%;
+height: 720px;
+}
+label{
+color: aliceblue;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 17px;
+}
+input{
+background-color:rgb(79, 55, 74);
+padding-bottom: 20px;
+color: white; 
+}
+button{
+color: aliceblue;
+ background-color:rgb(79, 55, 74); 
+ margin-bottom: 15px;
+ width: 175px;
+ height: 30px;
+}
+textarea{
+background-color:rgb(79, 55, 74);
+padding-bottom:50px;
+width: 170px;
+}
+.form-globale{
+   text-align: center; 
+}
